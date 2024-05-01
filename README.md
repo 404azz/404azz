@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.404azz.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C712&vCenter=true&random=false&width=437&height=65&lines=404azz%40host%3A~%24+;echo+'CTFs%26Writeups'" alt="404azz" /></a>
+<a href="https://404azz.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C712&vCenter=true&random=false&width=437&height=65&lines=404azz%40host%3A~%24+;echo+'CTFs%26Writeups'" alt="404azz" /></a>
 </p>
 
 <p align="center">
